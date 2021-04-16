@@ -1,1 +1,1 @@
-# kride
+# kride page design
